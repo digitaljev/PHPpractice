@@ -43,12 +43,12 @@
                 echo "<li>Item $letter</li>";
             }
 
-            //alternatively
-            echo "\n<ol>";
-            for ($x = 'A'; $x < 'G'; $x++) {
-                echo "<li>Item $x</li>\n";
-            }
-            echo "\n</ol>";
+            //alternatively (DIDN'T KNOW YOU COULD CYCLE THROUGH LETTERS!!)
+//            echo "\n<ol>";
+//            for ($x = 'A'; $x < 'G'; $x++) {
+//                echo "<li>Item $x</li>\n";
+//            }
+//            echo "\n</ol>";
             ?>
         </ol>
     </body>
