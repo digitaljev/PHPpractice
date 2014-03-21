@@ -4,7 +4,7 @@
 
 <html lang="en">
     <head>
-    <title>template</title>
+    <title>Ex1</title>
     </head>
     <body>
         
